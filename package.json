@@ -1,0 +1,26 @@
+{
+  "name": "AG-RESEARCH",
+  "version": "1.0.0",
+  "description": "==================================================",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aina-Design-Corp/ag-activeresearch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aina-Design-Corp/ag-activeresearch/issues"
+  },
+  "homepage": "https://github.com/Aina-Design-Corp/ag-activeresearch#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
