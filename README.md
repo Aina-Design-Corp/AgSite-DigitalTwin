@@ -11,4 +11,4 @@ Edge Machine Learning
 
 BIM Modelimg
 - IoT Network Arhitecture
-- - Site Planning
+- Site Planning
