@@ -1,14 +1,14 @@
-## MOKUNET Farmsite End Point Routing
+## MOKUNET Farmsite XR Interface Development
 
-## Publisher Topic Areas
+## Learning Topics
 ==================================================
 
-Edge Machine Learning
+XR/VR Lab
 - Ag Waste Recovery
 - Invasive Species Observation
-- Regenerate Farming Systems
-- Soil Adaptability as Carbon Sink
+- Regenerate Farming System Planning
+- Carbon Trade
 
-BIM Modelimg
+BIM Model Integrations
 - IoT Network Arhitecture
-- Site Planning
+- Semantic Router
