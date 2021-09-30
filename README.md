@@ -8,5 +8,5 @@ XR/VR Lab
 - Upcyclying Opportunities
 
 BIM Model Integrations
-- Digital Twin Learning
-- Semantic Router
+- Digital Twin IoT integrations
+- Semantic Router development
