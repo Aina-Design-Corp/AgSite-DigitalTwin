@@ -1,14 +1,12 @@
-## moku.mokunet.org interface development
+## moku.mokulab.io interface development
 
 ## Learning Topics
 ==================================================
 
 XR/VR Lab
 - Ag Waste Recovery
-- Invasive Species Observation
-- Regenerate Farming System Planning
-- Carbon Trade
+- Upcyclying Opportunities
 
 BIM Model Integrations
-- IoT Network Arhitecture
+- Digital Twin Learning
 - Semantic Router
