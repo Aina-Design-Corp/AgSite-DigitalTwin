@@ -1,4 +1,4 @@
-## moku.mokulab.io API development
+## Mokulab API development
 
 ## Learning Topics
 ==================================================
